@@ -1,2 +1,2 @@
 # Project-Rock-Paper-Scissors
-Rock Paper Scissors project from TheODinPRoject in JS fundamentals section.
+Rock Paper Scissors project from TheOdinProject in JS fundamentals section.
